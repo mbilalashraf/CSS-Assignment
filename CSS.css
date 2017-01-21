@@ -1,0 +1,49 @@
+
+body {
+    background-color: aqua;
+
+}
+.PP{
+
+    margin-bottom: -50px ;
+    margin-left: 10px;
+    margin-right: 110px;
+    margin-top: 60px;
+}
+.Image{
+    margin-left: 120px;
+    margin-top: -110px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    
+}
+figcaption{
+    color: brown;
+}
+.Search {
+    margin-right: -300px;
+    margin-left: 400px;
+    margin-top: -250px;
+}
+.Privacy{
+    margin-left: 10px;
+    margin-top: 150px;
+}
+.Button{
+    margin-left: 160px;
+    margin-top: -38px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+}
+.Update{
+    margin-left: 160px;
+    margin-top: -30px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+
+}
+input{
+    cursor: pointer;
+    border-style: inherit;
+    font-style: normal;
+}
